@@ -1,0 +1,12 @@
+.git
+.vs
+.idea
+node_modules
+build
+deps
+*.gypi
+autogypi.json
+binding.gyp
+build-tool.json
+npm-debug.log
+Thumbs.db

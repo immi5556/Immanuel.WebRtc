@@ -1,0 +1,7 @@
+{
+  "name": "Node-WebRtc",
+  "version": "0.0.1",
+  "dependencies": {
+    "puff-screeny": "^0.4.3"
+  }
+}

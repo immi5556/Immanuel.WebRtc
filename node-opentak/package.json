@@ -1,0 +1,18 @@
+{
+  "name": "Node-OpenTok",
+  "version": "0.0.1",
+  "description": "Node.js cross platform Trial",
+  "main": "index.js",
+  "keywords": [
+    "screen-sharing"
+  ],
+  "author": "Immanuel (raj@immanuel.co)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/immi5556"
+  },
+  "homepage": "https://immanuel.co",
+  "dependencies": {
+    "opentok-annotation": "^2.0.59"
+  }
+}
